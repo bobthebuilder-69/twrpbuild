@@ -27,7 +27,7 @@ jobs:
       - name: Clone device tree
         run: |
           cd ~/twrp
-          git clone https://github.com/bobthebuilder-69/device_samsung_j7xlte.git device/samsung/j7xlte
+          git clone https://github.com/bobthebuilder-69/twrpbuild/tree/main/device/samsung/j7xlte
 
       - name: Build TWRP
         run: |
