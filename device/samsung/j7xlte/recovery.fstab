@@ -1,0 +1,5 @@
+/dev/block/platform/13540000.dwmmc0/by-name/BOOT    /boot       emmc    defaults
+/dev/block/platform/13540000.dwmmc0/by-name/RECOVERY /recovery  emmc    defaults
+/dev/block/platform/13540000.dwmmc0/by-name/SYSTEM   /system    ext4    ro
+/dev/block/platform/13540000.dwmmc0/by-name/CACHE    /cache     ext4    defaults
+/dev/block/platform/13540000.dwmmc0/by-name/DATA     /data      ext4    defaults
